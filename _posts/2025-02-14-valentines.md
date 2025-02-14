@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Happy Valentine's Day!"
-date: $(date +%Y-%m-%d)
+date: 2025-02-14
 ---
 
 ![Valentine's Bouquet](/assets/images/valentine.jpg)
